@@ -1,2 +1,2 @@
 # Flying-Falcon-Game
-A game inspired from a classic game called "Angry Birds"
+A game that is made by using Unity editor and Visual Studio. It is a simple ten level game inspired from "Angry Birds". The rules are very straight fordard. Little purple monsters are on random places like at the top of a crate and they dissapear only if they are hit from above. Every level is a bit harder than the previous one and the game should take about 15-20 minutes to complete. It is a nice game to start learning stuff in game development with Unity. You can download the game from this repository.
