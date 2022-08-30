@@ -6,3 +6,5 @@ A game that is made by using Unity editor and Visual Studio. It is a simple ten 
 </p>
 
 A main menu also included in the game which allows you to select different levels and start or quit the game. The option button in the main menu is not working at the moment since there is no function given to it. If you want to create an option menu in the future, the button can be used. This is only a demo game. It consists of 10 levels and it still requires a lot of improvement in the areas like main menu, level building, UI etc. in order to become an actual game.
+
+***NOTE: This game has downloading option for only Windows operating system.***
